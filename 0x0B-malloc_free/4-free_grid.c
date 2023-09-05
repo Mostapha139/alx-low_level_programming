@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include "main.h"
+#include <stddef.h>
 
 /**
  * free_grid - frees the memory allocate for the grid
