@@ -1,4 +1,5 @@
 #include "variadic_functions.h"
+#include <stdarg.h>
 
 /**
  * sum_them_all - adds all the numbers
@@ -24,3 +25,4 @@ int sum_them_all(const unsigned int n, ...)
 
 	return (sum);
 }
+
